@@ -1,4 +1,3 @@
-const moduleAlias = require("module-alias");
 require('./alias.js')()
 
 const port = parseInt(process.env.PORT, 10) || 3000
