@@ -1,4 +1,5 @@
-require('./alias.js')()
+/* Alias React to Preact | Required */
+require('module-alias/register')
 
 const port = parseInt(process.env.PORT, 10) || 3000
 const dev = process.env.NODE_ENV !== 'production'
