@@ -17,9 +17,7 @@ class MyApp extends App {
 
     return (
       <Container>
-        <Provider store={store}>
-          <Component {...pageProps} />
-        </Provider>
+        <Component {...pageProps} />
       </Container>
     );
   }
