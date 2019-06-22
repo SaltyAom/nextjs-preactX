@@ -3333,10 +3333,10 @@ posix-character-classes@^0.1.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
-preact-render-to-string@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-5.0.3.tgz#393f73826ad21097982e7ca1a4a03e256bd20422"
-  integrity sha512-FuaMTQXsn/RSQN0JphOpoqeSKEmHm83yLeZUioosgZkzdAyrAFDiAFy4cWUhjmaT371eEwpFZWcwiUHL4oLEUA==
+preact-render-to-string@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-5.0.4.tgz#200f8ba3e4e4b934cc3cd3d15cd8bda2dc74fef8"
+  integrity sha512-5gnEDbDn0u/rK8w5/zaRc2lGRlOfPSlV6YVnhKGTTQGpHRQoRTf8tov0cs+AUX11TE37TF/izovIGnQSbkhQNA==
   dependencies:
     pretty-format "^3.8.0"
 
@@ -3345,10 +3345,10 @@ preact-ssr-prepass@^1.0.0:
   resolved "https://registry.yarnpkg.com/preact-ssr-prepass/-/preact-ssr-prepass-1.0.0.tgz#e09f8abbc5e815ff442978b800ed793d948618f7"
   integrity sha512-X8N22RpESyL+MdOh1tGMooMBmh43vrZsuXGwT0KJiuNp30d6iNRCrA9v2aw95oyeknJQY2+5QQGsL39j+8HxGQ==
 
-preact@^10.0.0-beta.2:
-  version "10.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.0.0-beta.2.tgz#659b6520eb41d5a3d178a61b3311e6ae79d8cf56"
-  integrity sha512-sKu2tdECRcmG8B2Q0GIAhTR95PhaWy15RkYFgpzfkEQLo7qqnE5lYQO2ccHNTfwuzj0LVPRdG71s5QjhnRyVbQ==
+preact@^10.0.0-beta.3:
+  version "10.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.0.0-beta.3.tgz#dabd0628d941f9e7908f68bb008e012ddff1b28f"
+  integrity sha512-JDeA+CVFBlv+r+v/tScG8hzOcOedXfBLUA5IhStqpfc7rPGY3T85pdlu4aGo2tV0AoZzQfO4LTnKkQEnKJ3UxQ==
 
 pretty-format@^3.8.0:
   version "3.8.0"
