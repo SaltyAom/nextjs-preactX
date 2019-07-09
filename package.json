@@ -1,17 +1,18 @@
 {
   "name": "next-preact",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development node server.js",
     "build": "next build",
+    "next": "next",
     "start": "cross-env NODE_ENV=production node server.js"
   },
   "dependencies": {
     "cross-env": "^5.2.0",
     "module-alias": "^2.2.0",
-    "next": "^8.1.0",
+    "next": "^9.0.0",
     "preact": "^10.0.0-beta.3",
     "preact-render-to-string": "^5.0.4",
     "preact-ssr-prepass": "^1.0.0"
