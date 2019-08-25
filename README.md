@@ -10,11 +10,11 @@ git clone https://github.com/aomkirby123/nextjs-preactX
 We need to add next.js and preact
 
 ```bash
-yarn add next preact@10 preact-render-to-string preact-ssr-prepass module-alias
+yarn add next preact@10 preact-render-to-string@next preact-ssr-prepass module-alias
 yarn add react react-dom --dev
 
 // or using npm
-npm install next preact@10 preact-render-to-string@5 preact-ssr-prepass module-alias
+npm install next preact@10 preact-render-to-string@next preact-ssr-prepass module-alias
 npm-install react react-dom --save-dev
 ```
 ###### Note: The lastest preact-render-to-string is version 4 which doesn't support Preact X while preact-render-to-string version 5 supports Preact X but is on the tags of 'next', so we specifiy the version here.
