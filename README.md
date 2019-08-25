@@ -58,7 +58,7 @@ const withPreact = (nextConfig = {}) => {
 module.exports = withPreact()
 ```
     
-### That's it, You're done!
+## That's it, You're done!
 
 ### Wait, what is happening here?
   
