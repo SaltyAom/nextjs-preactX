@@ -18,7 +18,7 @@ npm install next preact@10 preact-render-to-string@5 preact-ssr-prepass module-a
 npm-install react react-dom --save-dev
 ```
 ###### Note: The lastest preact-render-to-string is version 4 which doesn't support Preact X while preact-render-to-string version 5 supports Preact X but is on the tags of 'next', so we specifiy the version here.
-###### Otherwise, SSR result will be <undefined>.
+###### Otherwise, SSR result will be `undefined`.
 
 ### Wait, why do we add React here?
 Next.js require `React` and `React DOM` to run, so we'll use a little trick.
