@@ -9,7 +9,7 @@
 		"start": "next"
 	},
 	"dependencies": {
-		"next": "^9.2.2",
+		"next": "^9.3.2",
 		"preact": "^10.3.3",
 		"preact-render-to-string": "5.1.4",
 		"preact-ssr-prepass": "^1.0.1"
