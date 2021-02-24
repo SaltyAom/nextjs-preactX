@@ -1,14 +1,16 @@
 # Nextjs with Preact X!
 A starter template for using Next.js with Preact X!
 
+## Note
+This repo was come out the time Preact 10 was still alpha and was the first one (if not) using Preact 10 with Nextjs. As the state of that time, this was the only option to use Preact with Next.js.
+As the time now, Preact has more and better integration option, I'd recommended:
+- [Developit Preact Template](https://github.com/developit/nextjs-preact-demo)
+- [withPreact plugin](https://github.com/developit/nextjs-preact-demo)
+
 ## This starter is ready to be here:
 ```bash
 git clone https://github.com/aomkirby123/nextjs-preactX
 ```
-
-# Recommendation
-This repo is what I believe to be the very first repo for using Next.js with Preact as a guide.
-By the time so far, it works great and still! As one of Preact's creator created a starter repo about using Preact with Next.js himself! I'd recommended considering about using [his starter template](https://github.com/developit/nextjs-preact-demo) instead!
 
 ## To migrate from existing project
 We need to add next.js and preact
